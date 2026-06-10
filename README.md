@@ -1,9 +1,7 @@
 Demo video : 
-# driver.drowsiness
 # Driver Monitoring System
 
 ## Overview
-
 Driver Monitoring System is a real-time computer vision project developed using Python, OpenCV, and MediaPipe. The system monitors driver behavior through a webcam and detects signs of fatigue, drowsiness, yawning, and driver inattention. Audio alerts are generated to improve driver safety and reduce the risk of accidents caused by fatigue.
 
 ---
