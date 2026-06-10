@@ -1,4 +1,3 @@
-Demo video : 
 # Driver Monitoring System
 
 ## Overview
